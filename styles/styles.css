@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
-  background-color: #C8FFBE;
+  background: linear-gradient(75deg, #fdcd3b 60%, #ffed4b 60%);
   font-family: 'Roboto', 'sans-serif;';
 }
 h1 {
-  color: #B26E63;
+  color: #222222;
   text-align: center;
 }
 h2 {
-  color: #B26E63;
+  color: #222222;
   text-align: center;
 }
 h3 {
-  color: #B26E63;
+  color: #222222;
   text-align: center;
 }
 p {
@@ -23,13 +23,10 @@ p {
   padding: 0 3rem;
   margin-top:  4rem;
   text-align: center;
+  font-size: 120%;
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-.link {
-  text-align: center;
-  display: block;
 }
